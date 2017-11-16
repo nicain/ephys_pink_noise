@@ -34,6 +34,13 @@
 # POSSIBILITY OF SUCH DAMAGE.
 '''
 This code was written by Corinne Teeter with intellectual contributions from
+eThis code was originally written by Corinne Teeter with intellectual contributions from
+Stefan Mihalas, Vilas Menon, Ramakrishnan Iyer, and Nicholas Cain.  This code creates the 
+basic pink noise stimuli used in the noise1, noise2, and ramp to rheo stimulus used in the Allen 
+Institute for Brain Science electrophysiology pipeline.
+Note that the output trace created by this code may not exactly match
+what was used in our stimulus due to the random seed.  Exact traces 
+can be found in the experimental .nwb files.
 '''
 
 import numpy as np
