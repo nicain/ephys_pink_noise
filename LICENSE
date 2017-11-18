@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> added cookiecutter boilerplate
 Allen Institute Software License - This software license is the 2-clause BSD
 license plus a third clause that prohibits redistribution for commercial
 purposes without further permission.
@@ -32,6 +35,7 @@ SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS
 INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN
 CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
 ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
+<<<<<<< HEAD
 POSSIBILITY OF SUCH DAMAGE.
 =======
 Allen Institute Software License – This software license is the 2-clause BSD license 
@@ -61,3 +65,6 @@ SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSE
 WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE
 USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 >>>>>>> updating license and contributing files
+=======
+POSSIBILITY OF SUCH DAMAGE.
+>>>>>>> added cookiecutter boilerplate
