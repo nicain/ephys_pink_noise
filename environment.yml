@@ -1,7 +1,0 @@
-name: ephys_pink_noise
-
-dependencies:
-  - python=2.7
-  - numpy
-  - matplotlib
-
