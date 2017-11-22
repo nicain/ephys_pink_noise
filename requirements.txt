@@ -1,2 +1,1 @@
-numpy
-matplotlib
+argschema>=1.15.12

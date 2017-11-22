@@ -9,10 +9,8 @@ Contents:
    readme
    installation
    usage
-   contributing
    authors
    history
-   code
 
 
 Indices and tables
