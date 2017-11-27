@@ -12,7 +12,7 @@ setup(
     description = """Creates the pink noise stimuli used in the noise1, noise2, and ramp to rheo stimulus used in the Allen Institute for Brain Science electrophysiology pipeline.""",
     author = "Corinne Teeter",
     author_email = "corinnet@alleninstitute.org",
-    url = 'http://stash.corp.alleninstitute.org/scm/~corinnet/aibs.ephys_pink_noise',
+    url = 'https://github.com/AllenInstitute/aibs.ephys_pink_noise',
     packages = find_packages(),
     include_package_data=True,
     install_requires = requirements,

@@ -8,6 +8,7 @@ What is ephys_pink_noise?
 ------------------
 
 http://stash.corp.alleninstitute.org/scm/~corinnet/aibs.ephys_pink_noise
+https://github.com/AllenInstitute/aibs.ephys_pink_noise
 
 Creates the pink noise stimuli used in the noise1, noise2, and ramp to rheo stimulus used in the Allen Institute for Brain Science electrophysiology pipeline.
 
